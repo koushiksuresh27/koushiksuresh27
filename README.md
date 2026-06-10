@@ -8,4 +8,6 @@
 <p align="center">
 ◈ Learning, building and adapting  
 </p>
-<h2 align="center">Dream. Build. Repeat. 🚀</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=500&lines=Dream.+Build.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
